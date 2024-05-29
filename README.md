@@ -1,4 +1,8 @@
-## Hi there 👋
+bem vindos ao meu perfil (:
+
+meu nome é luiz henrique 
+
+estou estudando no alura(não queria mas fazer oq né)
 
 <!--
 **luizgato/luizgato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
